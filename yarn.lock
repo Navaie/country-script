@@ -6,3 +6,15 @@ country-code-lookup@^0.1.0:
   version "0.1.0"
   resolved "https://registry.yarnpkg.com/country-code-lookup/-/country-code-lookup-0.1.0.tgz#aa5b2d3ecc92cd7aed706ee70b7e4ee2f1d3799d"
   integrity sha512-IOI66HEG+8bXfWPy+sTzuN7161vmDZOHg1wgIPFf3WfD73FeLajnn6C+fnxOIa9RL1WRBDMXQQWW/FOaOYaQ3w==
+
+geojson-places@^1.0.8:
+  version "1.0.8"
+  resolved "https://registry.yarnpkg.com/geojson-places/-/geojson-places-1.0.8.tgz#7022275e8e5e25ba5dc92191e4757c720a59903f"
+  integrity sha512-4jqzFgpz9S3QZ9KsDTvokuf3qCygfhgYlBaVHhGt27bI9uzvbxacFz19qxGui1WUAwYXj39IZdtATsQ1ggtlOQ==
+  dependencies:
+    just-clone "^6.2.0"
+
+just-clone@^6.2.0:
+  version "6.2.0"
+  resolved "https://registry.yarnpkg.com/just-clone/-/just-clone-6.2.0.tgz#a4614d9bf7e4bbdcae7f9ba904aea5ea9cae8ae5"
+  integrity sha512-1IynUYEc/HAwxhi3WDpIpxJbZpMCvvrrmZVqvj9EhpvbH8lls7HhdhiByjL7DkAaWlLIzpC0Xc/VPvy/UxLNjA==
