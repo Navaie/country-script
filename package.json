@@ -1,0 +1,9 @@
+{
+  "name": "country-script",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "country-code-lookup": "^0.1.0"
+  }
+}
