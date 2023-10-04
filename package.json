@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "@rapideditor/country-coder": "^5.2.2",
     "country-code-lookup": "^0.1.0",
     "geojson-places": "^1.0.8"
   }

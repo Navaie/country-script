@@ -2,6 +2,13 @@
 # yarn lockfile v1
 
 
+"@rapideditor/country-coder@^5.2.2":
+  version "5.2.2"
+  resolved "https://registry.yarnpkg.com/@rapideditor/country-coder/-/country-coder-5.2.2.tgz#8047de429b30b7795693f418b2903daeaac1a355"
+  integrity sha512-xGkI+wHX694sFcKKVdy20/uNeHuIiJACnke2vp7LzX22PRPJJv+pcn1OU5nb1urnad275EMfJQR33ayi2hWZOQ==
+  dependencies:
+    which-polygon "^2.2.1"
+
 country-code-lookup@^0.1.0:
   version "0.1.0"
   resolved "https://registry.yarnpkg.com/country-code-lookup/-/country-code-lookup-0.1.0.tgz#aa5b2d3ecc92cd7aed706ee70b7e4ee2f1d3799d"
@@ -18,3 +25,28 @@ just-clone@^6.2.0:
   version "6.2.0"
   resolved "https://registry.yarnpkg.com/just-clone/-/just-clone-6.2.0.tgz#a4614d9bf7e4bbdcae7f9ba904aea5ea9cae8ae5"
   integrity sha512-1IynUYEc/HAwxhi3WDpIpxJbZpMCvvrrmZVqvj9EhpvbH8lls7HhdhiByjL7DkAaWlLIzpC0Xc/VPvy/UxLNjA==
+
+lineclip@^1.1.5:
+  version "1.1.5"
+  resolved "https://registry.yarnpkg.com/lineclip/-/lineclip-1.1.5.tgz#2bf26067d94354feabf91e42768236db5616fd13"
+  integrity sha512-KlA/wRSjpKl7tS9iRUdlG72oQ7qZ1IlVbVgHwoO10TBR/4gQ86uhKow6nlzMAJJhjCWKto8OeoAzzIzKSmN25A==
+
+quickselect@^1.0.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/quickselect/-/quickselect-1.1.1.tgz#852e412ce418f237ad5b660d70cffac647ae94c2"
+  integrity sha512-qN0Gqdw4c4KGPsBOQafj6yj/PA6c/L63f6CaZ/DCF/xF4Esu3jVmKLUDYxghFx8Kb/O7y9tI7x2RjTSXwdK1iQ==
+
+rbush@^2.0.1:
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/rbush/-/rbush-2.0.2.tgz#bb6005c2731b7ba1d5a9a035772927d16a614605"
+  integrity sha512-XBOuALcTm+O/H8G90b6pzu6nX6v2zCKiFG4BJho8a+bY6AER6t8uQUZdi5bomQc0AprCWhEGa7ncAbbRap0bRA==
+  dependencies:
+    quickselect "^1.0.1"
+
+which-polygon@^2.2.1:
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/which-polygon/-/which-polygon-2.2.1.tgz#093d76c9628ee12bfae39448609accbdcc268c31"
+  integrity sha512-RlpWbqz12OMT0r2lEHk7IUPXz0hb1L/ZZsGushB2P2qxuBu1aq1+bcTfsLtfoRBYHsED6ruBMiwFaidvXZfQVw==
+  dependencies:
+    lineclip "^1.1.5"
+    rbush "^2.0.1"

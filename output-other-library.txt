@@ -1,0 +1,300 @@
+Bangkok Thailand 13.76 100.5
+null
+
+Chiang Mai Thailand 18.79 98.99
+null
+
+Phuket Thailand 7.88 98.39
+null
+
+Krabi Thailand 8.09 98.91
+null
+
+Amsterdam Netherlands 52.37 4.9
+null
+
+Ko Pha Ngan Thailand 9.73 100.01
+null
+
+Ko Samui Thailand 9.51 100.01
+null
+
+Ko Tao Thailand 10.1 99.84
+null
+
+Hanoi Vietnam 21.03 105.83
+null
+
+Singapore Singapore 1.35 103.82
+null
+
+Tokyo Japan 35.68 139.65
+null
+
+Ho Chi Minh City Vietnam 10.82 106.63
+null
+
+London United Kingdom 51.51 -0.13
+null
+
+Rome Italy 41.9 12.5
+ET
+
+Phi Phi Islands Thailand 7.74 98.78
+null
+
+Khao Sok National Park Thailand 8.98 98.64
+null
+
+Pai Thailand 19.36 98.44
+null
+
+Paris France 48.86 2.35
+null
+
+Federal Territory of Kuala Lumpur Malaysia 3.13 101.68
+null
+
+Florence Italy 43.77 11.26
+SO
+
+Milan Italy 45.46 9.19
+SO
+
+Ubud Indonesia -8.51 115.26
+null
+
+Hội An Vietnam 15.88 108.34
+null
+
+Khao Sok Thailand 8.94 98.46
+null
+
+Venice Italy 45.44 12.32
+SO
+
+Barcelona Spain 41.39 2.17
+SO
+
+Osaka Japan 34.69 135.5
+null
+
+Canggu Indonesia -8.65 115.14
+null
+
+Bali Indonesia -8.41 115.19
+null
+
+Krong Siem Reap Cambodia 13.36 103.86
+null
+
+Lisbon Portugal 38.72 -9.14
+TZ
+
+Surat Thani Thailand 9.13 99.33
+null
+
+Kyoto Japan 35.01 135.77
+null
+
+Athens Greece 37.98 23.73
+SA
+
+Cancún Mexico 21.16 -86.85
+AQ
+
+Ninh Bình Vietnam 20.25 105.97
+null
+
+Phnom Penh Cambodia 11.56 104.93
+null
+
+Phra Nakhon Si Ayutthaya Thailand 14.37 100.59
+null
+
+Budapest Hungary 47.5 19.04
+SA
+
+Kanchanaburi Thailand 14.1 99.42
+null
+
+Naples Italy 40.85 14.27
+ER
+
+Hoàn Kiếm Vietnam 21.03 105.85
+null
+
+Bogotá Colombia 4.71 -74.07
+AQ
+
+Split Croatia 43.51 16.44
+YE
+
+Berlin Germany 52.52 13.4
+YE
+
+Hue Vietnam 16.46 107.59
+null
+
+Vienna Austria 48.21 16.37
+YE
+
+New York United States 40.71 -74.01
+AQ
+
+San Francisco United States 37.77 -122.42
+null
+
+Los Angeles United States 34.05 -118.24
+null
+
+Jakarta Indonesia -6.21 106.85
+null
+
+Manila Philippines 14.6 120.98
+null
+
+Las Vegas United States 36.17 -115.14
+null
+
+Mueang Chiang Rai Thailand 19.91 99.84
+null
+
+Gili Trawangan Indonesia -8.35 116.04
+null
+
+Sydney Australia -33.87 151.21
+null
+
+Madrid Spain 40.42 -3.7
+null
+
+Koh Samui Thailand 9.52 100.05
+null
+
+Medellín Colombia 6.25 -75.57
+AQ
+
+Ko Lanta Thailand 7.62 99.08
+null
+
+Cartagena Spain 37.62 -0.99
+KE
+
+Prague Czechia 50.08 14.44
+YE
+
+Brussels Belgium 50.85 4.36
+SO
+
+Nice France 43.71 7.26
+ET
+
+Sa Pa Vietnam 22.34 103.84
+null
+
+Ao Nang Thailand 8.04 98.84
+null
+
+Luang Prabang Laos 19.88 102.14
+null
+
+Hạ Long Vietnam 20.97 107.04
+null
+
+Da Nang Vietnam 16.05 108.07
+null
+
+Munich Germany 48.14 11.58
+SO
+
+Cebu City Philippines 10.32 123.89
+null
+
+Denpasar Indonesia -8.67 115.21
+null
+
+Dubrovnik Croatia 42.65 18.09
+SA
+
+Dalat Vietnam 11.94 108.46
+null
+
+Nusa Penida Indonesia -8.72 115.46
+null
+
+San José Costa Rica 9.93 -84.09
+AQ
+
+Hà Giang Vietnam 22.8 104.98
+null
+
+Ko Lipe Thailand 6.49 99.3
+null
+
+Copenhagen Denmark 55.68 12.57
+OM
+
+Uluwatu Beach Indonesia -8.81 115.09
+null
+
+Frankfurt Germany 50.11 8.68
+SO
+
+Lima Peru -12.05 -77.04
+AQ
+
+Seoul Bonaire, Sint Eustatius and Saba 37.55 126.99
+null
+
+El Nido Philippines 11.2 119.42
+null
+
+Vientiane Laos 17.98 102.63
+null
+
+Tulum Mexico 20.21 -87.47
+AQ
+
+Amsterdam Airport Schiphol Netherlands 52.31 4.77
+null
+
+Dubai United Arab Emirates 25.2 55.27
+LT
+
+Porto Portugal 41.16 -8.63
+null
+
+Mexico City Mexico 19.43 -99.13
+null
+
+Vang Vieng Laos 18.95 102.44
+null
+
+Zürich Switzerland 47.38 8.54
+SO
+
+Santa Marta Colombia 11.24 -74.21
+AQ
+
+Cusco Peru -13.53 -71.97
+AQ
+
+Hiroshima Japan 34.39 132.46
+null
+
+Coron Philippines 12.05 120.15
+null
+
+Auckland New Zealand -36.85 174.76
+null
+
+George Town Malaysia 5.41 100.33
+null
+
+Colombo Sri Lanka 6.93 79.86
+null
+
+Ko Phi Phi Don Thailand 7.75 98.78
+null
+
